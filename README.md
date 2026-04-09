@@ -8,6 +8,8 @@ This repository contains a synthetic dataset for evaluating **automatic dashboar
 
 - `NVBench_synthetic_dashboards_data.json`
 
+The synthetic dataset contains **7,283 dashboard instances** constructed across **152 databases**, covering a diverse range of visualization tasks and layout configurations.
+
 ---
 
 ## Purpose
